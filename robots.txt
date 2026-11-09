@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://day1jiwon.github.io/sitemap.xml
